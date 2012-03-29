@@ -1,0 +1,7 @@
+Very unfinished CHIP-8 emulator written in Python.
+
+TODO:
+ * Finish implementing all opcodes
+ * Allow overflowing of registers on some ops.
+ * ROM-loading mechanism.
+ * Gfx/sound-output.
